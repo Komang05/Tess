@@ -307,8 +307,8 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/c68c91db8659e2d49444c.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c68c91db8659e2d49444c.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/0bcff8948331583cd45ce.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0bcff8948331583cd45ce.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
