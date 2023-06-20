@@ -44,57 +44,57 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/ziromd'
-global.tautanwa = 'https://wa.me/6281228070013'
-global.sgh = 'https://github.com/ZiroMD' //github
-global.sgc = 'https://chat.whatsapp.com/EJSmB8dcNFj81oORqxeOp2'  //group whatsapp
+global.sig = 'https://instagram.com/_mocpi'
+global.tautanwa = 'https://wa.me/6285175000069'
+global.sgh = 'https://github.com/' //github
+global.sgc = 'https://chat.whatsapp.com/GLAVfKldbLa6jO0HtNcy69'  //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@Ziro-MD_Official'
-global.syt = 'https://youtube.com/@Ziro-MD_Official'
-global.sfb = 'https://www.facebook.com/ziro'// facebook
-global.snh = 'https://chat.whatsapp.com/FUBppf4LKZxBM6hH2f1gjA'
-global.media = 'https://telegra.ph/file/c68c91db8659e2d49444c.jpg'
-global.wame = 'https://wa.me/6281228070013'
+global.linkyt = '-'
+global.syt = '-'
+global.sfb = '-'// facebook
+global.snh = 'https://chat.whatsapp.com/GLAVfKldbLa6jO0HtNcy69'
+global.media = 'https://telegra.ph/file/0bcff8948331583cd45ce.jpg'
+global.wame = 'https://wa.me/6285175000069'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
-global.owner = [['6281228070013', '᭖͜͡ZIRO-MD', true]]
+global.owner = [['6285175000069', 'Kapii', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281228070013' //pasang no bot lo 
-global.nomorown = '6281228070013' //pasang no own lo
-global.nomorown1 = '6281228070013'
-global.nomorown2 = '6281228070013'
+global.nomorbot = '6285156828430' //pasang no bot lo 
+global.nomorown = '6285156828430' //pasang no own lo
+global.nomorown1 = '6285175000069'
+global.nomorown2 = '6285175000069'
 global.nomorwa = '0'
-global.nameown = '᭖͜͡ZIRO-MD '
-global.gcname = 'Group botz'
-global.author = '᭖͜͡ZiroBOTz MD 乂 ZIRO MD'
-global.v = '᭖͜͡ZiroBOTz MD 乂 ZIRO MD'
-global.namabot = '⫹⫺ ᭖͜͡ZiroBOTz MD'
+global.nameown = 'Kapii '
+global.gcname = 'Nero Bot'
+global.author = 'Nero Bot 乂 Kapii'
+global.v = 'Nero Bot 乂 Kapii'
+global.namabot = '⫹⫺ Nero Bot'
 global.namebot = namabot
 global.packname2 = namabot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '᭖͜͡ZIRO-MD'
-global.nameown2 = '᭖͜͡ZIRO-MD '
+global.nameown1= 'Kapii'
+global.nameown2 = 'Kapii '
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '                「 ᭖͜͡ZiroBOTz MD 」 '
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘᭖͜͡ZiroBOTz MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = `⫹⫺ ᭖͜͡ZiroBOTz MD`
-global.packname = 'Created By ᭖͜͡ZiroBOTz'
+global.wm = '                「 Nero Bot 」 '
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Nero Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = `⫹⫺ Nero Bot`
+global.packname = 'Created By Nero Bot'
 global.watermark = namabot
-global.titlebot = `᭖͜͡ZiroBOTz -MD`
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ZIRO ッ'
+global.titlebot = `Nero Bot`
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ Kapii ッ'
 /*Fake*/
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.stickpack = 'Made by'
-global.stickauth = `⫹⫺ ᭖͜͡ZiroBOTz MD`
+global.stickauth = `⫹⫺ Kapii`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -107,22 +107,22 @@ global.islamic = `${dateIslamic}`
 global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.intro = 'https://telegra.ph/file/c68c91db8659e2d49444c.jpg'
+global.intro = 'https://telegra.ph/file/0bcff8948331583cd45ce.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://saweria.co/ZiroMD'
-global.ig = 'https://instagram.com/gada'
+global.lynk = 'https://saweria.co'
+global.ig = 'https://instagram.com/_mocpi'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '083861760785'//pasang no lo sinih buat donasi 
+global.pdana = '085175000069'//pasang no lo sinih buat donasi 
 global.povo = '-' 
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085870966580' // Pulsa indosat
-global.ppulsa2 = '083861760785' // Pulsa axis 
+global.ppulsa = '-' // Pulsa indosat
+global.ppulsa2 = '-' // Pulsa axis 
 global.psaweria = '-'
 global.donasikabul = 'Gadaa'
 
@@ -319,16 +319,16 @@ global.thumb = fp
 global.dbnya = `sessions/database.json`
 global.sesinya = `sessions/QueensBotz -MD`
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://instagram.com/ziromd"
+global.urlnya = "https://instagram.com/_mocpi"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281228070013'
+global.phn = '6285175000069'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/0bcff8948331583cd45ce.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
