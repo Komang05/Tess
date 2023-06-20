@@ -13,7 +13,7 @@ let tags = {} // Edit Sendiri:v
 const defaultMenu = {
 before: `
 ┏━━━━━━━━━━━━━━━━━━༉
-┃⍣╭╌╌╌╌⟢ ᭖͜͡ZiroBOTz MD ⟣╌╌╌╌╌⟢
+┃⍣╭╌╌╌╌⟢ Nero Bot ⟣╌╌╌╌╌⟢
 ┃⍣┊「 Hai Kak 👋 」
 ┃⍣┊々 %name
 ┃⍣┊々 %ucpn
@@ -258,8 +258,8 @@ contextInfo: {
 externalAdReply: {
 title: date,
 body: 'bodynya',
-thumbnailUrl: 'https://telegra.ph/file/3ca9ce259d268c33401e2.jpg',
-sourceUrl: "https://chat.whatsapp.com/EJSmB8dcNFj81oORqxeOp2",
+thumbnailUrl: 'https://telegra.ph/file/0bcff8948331583cd45ce.jpg',
+sourceUrl: "https://chat.whatsapp.com/GLAVfKldbLa6jO0HtNcy69",
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
