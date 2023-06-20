@@ -98,10 +98,10 @@ let text = `●────━───༺༻───━───●
 ┏─────────────────⬣
 ┆         《 BOT INFO 》
 ┗┬──────────────┈ ⳹
-┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ᭖͜͡ZiroBotz MD
+┏┆⚘ 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : Nero Bot
 ┆┆⚘ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛
 ┆┆⚘ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛
-┆┆http://wa.me/6281228070013
+┆┆http://wa.me/6285175000069
 ┆┆⚘ 𝚃𝚊𝚗𝚐𝚐𝚊𝚕: ${date}
 ┆┆⚘ 𝙹𝚊𝚖: ${time} WIB
 ┆┆⚘ 𝙼𝚘𝚍𝚎: 「 ${mode}  」
@@ -133,8 +133,8 @@ contextInfo: {
 externalAdReply: {
 title: v,
 body: 'bodynya',
-thumbnailUrl: "https://telegra.ph/file/3ca9ce259d268c33401e2.jpg",
-sourceUrl: "https://chat.whatsapp.com/EJSmB8dcNFj81oORqxeOp2",
+thumbnailUrl: "https://telegra.ph/file/0bcff8948331583cd45ce.jpg",
+sourceUrl: "https://chat.whatsapp.com/GLAVfKldbLa6jO0HtNcy69",
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
