@@ -339,7 +339,7 @@ text: all + readMore + '\n\n' + text,
 contextInfo: {
 externalAdReply: {
 title: v,
-thumbnailUrl: "https://telegra.ph/file/3ca9ce259d268c33401e2.jpg",
+thumbnailUrl: "https://telegra.ph/file/0bcff8948331583cd45ce.jpg",
 sourceUrl: sgc,
 mediaType: 1,
 renderLargerThumbnail: true
